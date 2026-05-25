@@ -1,0 +1,6 @@
+-- Step 1: Create staging table
+-- Step 2: Remove duplicates
+-- Step 3: Standardize text fields
+-- Step 4: Convert dates
+-- Step 5: Handle null values
+-- Step 6: Remove helper columns
